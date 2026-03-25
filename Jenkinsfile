@@ -5,7 +5,7 @@ pipeline {
         APP_NAME = 'foodexpress-api'
         IMAGE_NAME = 'foodexpress-api'
         APP_PORT = '5000'
-        REPO_URL = 'https://github.com/Nikola-Limpet/devops-assignment6.git'
+        REPO_URL = 'https://github.com/Nikola-Limpet/Devop-class-assignment6'
     }
 
     tools {
